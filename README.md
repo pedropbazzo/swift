@@ -1,6 +1,6 @@
 <p align="center">
 	<img src="https://raw.githubusercontent.com/learnbr/swift/master/logo.png" alt="Aprenda Swift" style="max-width:100%;">
-</p>
+</p> 
 
 <h1 align="center">Aprenda Swift</h1>
 
